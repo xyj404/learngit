@@ -12,3 +12,5 @@ Creating a new branch dev
 Using stash.
 
 Too many people develop.
+
+Fellow's code.
